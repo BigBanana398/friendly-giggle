@@ -1,0 +1,5 @@
+{
+  "name": "FamilyDinner Planner",
+  "description": "一款智能家庭晚餐规划应用，帮助您安排每周晚餐、生成购物清单，并根据您的偏好和健康目标接收 AI 驱动的菜谱推荐。",
+  "requestFramePermissions": []
+}
